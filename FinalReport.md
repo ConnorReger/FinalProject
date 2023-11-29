@@ -5,4 +5,4 @@
 **The Best Neighborhood**: <br>
     
 **Conclusion**: <br>
-    
+    Connor: The data driven determination is quite different from my personal neighborhood, and understandably so. The metrics looked at here are radically different than what personally matters to me. As just a regular person, I prefer the number of stores, places to eat, population, etc rather than metrics that matter for a superhero. I'd also argue that I would run the opposite way of the "best neighborhood to be Spider-Man", as it has one of the highest incident and arrest rates, which is not what I would want for *my* neighborhood.
