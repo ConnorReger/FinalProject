@@ -10,5 +10,4 @@ https://data.wprdc.org/dataset/police-incident-blotter/resource/1797ead8-8262-41
 https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367 <br>
 
 
-<br>
 **Overview**: Our repository has the 4 data sets and 3 individual notebooks for the submetrics, a readme, and a final report.
