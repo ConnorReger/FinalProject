@@ -8,6 +8,8 @@ Members: Connor Reger(csr51@pitt.edu), Ansel Gunther(asg149@pitt.edu), Riley Pre
 https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f <br>
 https://data.wprdc.org/dataset/police-incident-blotter/resource/1797ead8-8262-41cc-9099-cbc8a161924b <br>
 https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367 <br>
+https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02 <br>
+
 
 
 **Overview**: Our repository has the 4 data sets and 3 individual notebooks for the submetrics, a readme, and a final report.
