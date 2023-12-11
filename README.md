@@ -1,5 +1,5 @@
 # FinalProject
-Big Ideas Final Project <br>
+Big Ideas Final Project Group 24 <br>
 
 TEAM NAME: Spider-Fans <br>
 Members: Connor Reger(csr51@pitt.edu), Ansel Gunther(asg149@pitt.edu), Riley Prell(rrp58@pitt.edu) <br>
